@@ -1,4 +1,5 @@
-# programming-hero
-It's a course module repository.
+# Programming-hero
+## It's a course module repository.
 
-[Module-1](https://suny-webdevs.github.io/programming-hero/Module-1/index.html)
+# Modules:
+[Module-1: HTML Tags](https://suny-webdevs.github.io/programming-hero/Module-1/index.html)
